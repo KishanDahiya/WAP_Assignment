@@ -777,6 +777,7 @@ footer .copyright .pro-links i:hover{
 #map{
     width: 100%;
     height: 70vh;
+    margin-bottom: 8vw;
 }
 #map iframe{
     width: 100%;
