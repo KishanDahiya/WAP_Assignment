@@ -521,7 +521,7 @@ footer .copyright .pro-links i:hover{
 }
 #blog-container .blogpost p{
     text-align: justify;
-    padding-bottom: 60px !important;
+    padding-bottom: 30px !important;
 }
 
 @media (max-width:769px){
